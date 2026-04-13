@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and downloaded data
+data/*.csv
+data/*.xlsx
+data/*.xls
+raw/
+downloads/
+*.xlsx
+*.xls
+
+# Generated bulk outputs
+results_csv/
+results_png/
+results_txt/
+outputs/
+logs/
+
+# Archives and drafts
+*.zip
+*.docx
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
